@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  📧 johnboscoigiligi3@gmail.com &nbsp;|&nbsp;
+  📧 <a href="johnboscoigiligi3@gmail.com">Email</a> &nbsp;|&nbsp;
   🔗 <a href="https://www.linkedin.com/in/chibueze-igiligi-15056a2a3">LinkedIn</a> &nbsp;|&nbsp;
   🐙 <a href="https://github.com/Igiligi">GitHub</a>
 </p>
