@@ -1,11 +1,11 @@
 <h1 align="center">Hey there, I'm Chibueze Igiligi 👋</h1>
 
 <p align="center">
- <strong>Data Analyst | AI/ML Enthusiast | First-Class Civil Engineer</strong>
+ <h2 align="center">Data Analyst | AI/ML Enthusiast | First-Class Civil Engineer</h2>
 </p>
 
 <p align="center">
-  📧 <a href="johnboscoigiligi3@gmail.com">Email</a> &nbsp;|&nbsp;
+  📧 <a href="mailto:johnboscoigiligi3@gmail.com">Email</a> &nbsp;|&nbsp;
   🔗 <a href="https://www.linkedin.com/in/chibueze-igiligi-15056a2a3">LinkedIn</a> &nbsp;|&nbsp;
   🐙 <a href="https://github.com/Igiligi">GitHub</a>
 </p>
