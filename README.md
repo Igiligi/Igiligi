@@ -1,15 +1,18 @@
-# Chibueze Igiligi
+<h1 align="center">Hey there, I'm Chibueze Igiligi 👋</h1>
 
-**Data Analytics | AI/ML Enthusiast | First-Class Civil Engineer**
+<p align="center">
+ <strong>Data Analyst | AI/ML Enthusiast | First-Class Civil Engineer</strong>
+</p>
 
-📍 Enugu, Nigeria  
-📧 johnboscoigiligi3@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/chibueze-igiligi-15056a2a3)  
-🐙 [GitHub](https://github.com/Igiligi)
+<p align="center">
+  📧 johnboscoigiligi3@gmail.com &nbsp;|&nbsp;
+  🔗 <a href="https://www.linkedin.com/in/chibueze-igiligi-15056a2a3">LinkedIn</a> &nbsp;|&nbsp;
+  🐙 <a href="https://github.com/Igiligi">GitHub</a>
+</p>
 
 ---
 
-## 👋 About Me
+## 🎯 About Me
 
 I'm a **first-class Civil Engineering graduate**, **Data Analyst** and **AI/ML enthusiast**. My journey is driven by a simple belief: data can solve real problems—especially in the communities where I live.
 
