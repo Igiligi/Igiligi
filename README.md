@@ -1,8 +1,9 @@
 <h1 align="center">Hey there, I'm Chibueze Igiligi 👋</h1>
 
 <p align="center">
- <h2 align="center">Data Analyst | AI/ML Enthusiast | First-Class Civil Engineer</h2>
+ <strong align="center">Data Analyst | AI/ML Enthusiast | First-Class Civil Engineer</strong>
 </p>
+
 
 <p align="center">
   📧 <a href="mailto:johnboscoigiligi3@gmail.com">Email</a> &nbsp;|&nbsp;
