@@ -16,7 +16,7 @@
 
 ## 🎯 About Me
 
-I'm a **first-class Civil Engineering graduate**, **Data Analyst** and **AI/ML enthusiast**. My journey is driven by a simple belief: data can solve real problems—especially in the communities where I live.
+I'm a **first-class Civil Engineering graduate**, **Data Analyst** and **AI/ML enthusiast**. My journey is driven by a simple belief: data can solve real problems, especially in the communities where I live.
 
 As a **3MTT Data Analytics Fellow** and **TechCrush AI/ML Scholar**, I’ve been building solutions that bridge the gap between technical skills and community impact. I learn fast, build relentlessly, and tell stories through data.
 
