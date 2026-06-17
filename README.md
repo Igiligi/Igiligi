@@ -16,9 +16,11 @@
 
 ## 🎯 About Me
 
-I'm a **first-class Civil Engineering graduate**, **Data Analyst** and **AI/ML enthusiast**. My journey is driven by a simple belief: data can solve real problems, especially in the communities where I live.
-
-As a **3MTT Data Analytics Fellow** and **TechCrush AI/ML Scholar**, I’ve been building solutions that bridge the gap between technical skills and community impact. I learn fast, build relentlessly, and tell stories through data.
+I’m a highly devoted AI-Enabled Data Analyst with over 1.5 years of combined experience in research
+driven analysis and operational data management. Proven track record of leveraging Python, SQL, and 
+Tableau to drive efficiency, including winning a state hackathon by reducing ESWAMA response times by 
+20%. Skilled in transforming messy enumeration data into actionable business insights and strategic IT 
+recommendations.
 
 ---
 
