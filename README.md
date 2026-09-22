@@ -60,7 +60,6 @@ Cleaned and analyzed a 180,519-row supply chain dataset using Python (Pandas, Nu
 - **TechCrush AI/ML Scholarship** – Current Scholar
 - **NJFP Fellow** – Nigerian Jubilee Fellows Programme
 - **Best Graduating Student** – Academic excellence award
-- **Legit.ng Feature** – Recognized for my transition into tech
 
 ---
 
