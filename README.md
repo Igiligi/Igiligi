@@ -1,14 +1,13 @@
 <h1 align="center">Hey there, I'm Chibueze Igiligi 👋</h1>
 
 <p align="center">
- <strong align="center">Data Analyst | AI/ML Enthusiast | First-Class Civil Engineer</strong>
+ <strong align="center">AI-Augmented Data Analyst | Excel, SQL & Python for Data Cleaning & Automation | Remote (WAT)</strong>
 </p>
 
-
 <p align="center">
-  📧 <a href="mailto:johnboscoigiligi3@gmail.com">Email</a> &nbsp;|&nbsp;
+  📧 <a href="mailto:chibuezeigiligi.ng@gmail.com">Email</a> &nbsp;|&nbsp;
   🔗 <a href="https://www.linkedin.com/in/chibueze-igiligi-15056a2a3">LinkedIn</a> &nbsp;|&nbsp;
-  🐙 <a href="https://github.com/Igiligi">GitHub</a>
+  🐙 <a href="https://github.com/Igiligi">GitHub</a> &nbsp;|&nbsp;
   🌐 <a href="https://igiligi.github.io/portfolio/">Portfolio</a>
 </p>
 
@@ -16,28 +15,28 @@
 
 ## 🎯 About Me
 
-I’m a highly devoted AI-Enabled Data Analyst with over 1.5 years of combined experience in research
-driven analysis and operational data management. Proven track record of leveraging Python, SQL, and 
-Tableau to drive efficiency, including winning a state hackathon by reducing ESWAMA response times by 
-20%. Skilled in transforming messy enumeration data into actionable business insights and strategic IT 
-recommendations.
+I'm an early-career data analyst with 1.5+ years of combined experience in data cleaning, validation, reconciliation, and reporting across government, education, and private-sector projects.
+
+At Enugu State Waste Management Authority (ESWAMA), I cleaned and validated a master database of 180,000+ records, removed 5,000+ duplicate entries to improve billing accuracy, and co-architected the state's automated billing system.
+
+**How I work:** I use Excel, SQL, and Python for data cleaning, transformation, and automation. I work with Pandas and NumPy, and I use AI tools like DeepSeek to generate and debug code efficiently. I build working data pipelines, automate repetitive tasks, and deliver results fast.
 
 ---
 
-## 🚀 Featured Project
+## 🚀 Featured Projects
 
-### **Enugu Smart Waste Tracker (ESWaT)**
+### ESWAMA Fleet Management System
+Real-time waste collection fleet management tool using React, TypeScript, and Google Apps Script. Estimated 49% reduction in route violations.
 
-A real-time waste management web app helping ESWAMA track overflowing bins and open dumping sites in Enugu State.
+### Enugu Smart Waste Tracker (ESwAT)
+Real-time waste management web app with GPS integration and automated issue alerts. 1st Place, 3MTT NextGen Hackathon (250+ submissions).
+🔗 [Live App](https://eswatapp.netlify.app)
 
-- **Impact:** Over **27 live reports**, real-time sync between residents and officers
-- **Built with:** React, TypeScript, OpenStreetMap, Leaflet, Google Sheets, Google Apps Script
-- **Deployed on:** Netlify  
-- **Recognition:** Featured in [Legit.ng](https://legit.ng) for my journey from engineering to tech
+### Enumerator Dashboard
+Excel dashboard tracking 3,408 enumerations, driving +13.9% week-over-week growth and 6 days above target (peak: 454/day).
 
-📈 **1000+ post impressions** on LinkedIn about this project—showing the hunger for real solutions in Nigeria.
-
-🔗 [Live App](https://eswatapp.netlify.app) | 🧠 [GitHub Repo](https://github.com/Igiligi/ESWaT-App) *(private)*
+### Supply Chain EDA Project
+Cleaned and analyzed a 180,519-row supply chain dataset using Python (Pandas, NumPy) and Jupyter Notebook.
 
 ---
 
@@ -45,10 +44,10 @@ A real-time waste management web app helping ESWAMA track overflowing bins and o
 
 | Category | Tools |
 |----------|-------|
-| **Languages** | Python, TypeScript |
-| **Data & Analytics** | Pandas, Looker Studio |
+| **Data Analysis & Cleaning** | Excel (Power Query, Pivot Tables), SQL (MySQL), Python (Pandas, NumPy) |
+| **Data Visualization** | Excel dashboards, Python (Matplotlib) |
 | **Web & App** | React, TypeScript, Leaflet, OpenStreetMap |
-| **Automation & Backend** | Google Apps Script |
+| **Automation & Backend** | Google Apps Script, Google Sheets |
 | **Version Control** | Git, GitHub |
 | **Currently Learning** | AI/ML workflows, production-ready systems |
 
@@ -56,12 +55,12 @@ A real-time waste management web app helping ESWAMA track overflowing bins and o
 
 ## 🎓 Education & Recognition
 
-- **B.Sc. Civil Engineering** – First Class Honours  
-- **3MTT Nigeria** – Data Analytics Fellow  
-- **TechCrush AI/ML Scholarship** – Current Scholar  
-- **NJFP Fellow** – Nigerian Jubilee Fellows Programme  
-- **Best Graduating Student** – Academic excellence award  
-- **Legit.ng Feature** – Recognized for my transition into tech and my NNPC/TotalEnergies scholarship experience
+- **B.Sc. Civil Engineering** – First Class Honours
+- **3MTT Nigeria** – Data Analytics Fellow
+- **TechCrush AI/ML Scholarship** – Current Scholar
+- **NJFP Fellow** – Nigerian Jubilee Fellows Programme
+- **Best Graduating Student** – Academic excellence award
+- **Legit.ng Feature** – Recognized for my transition into tech
 
 ---
 
@@ -69,22 +68,21 @@ A real-time waste management web app helping ESWAMA track overflowing bins and o
 
 I'm passionate about:
 
-- **Data storytelling** that drives decisions  
-- **AI/ML solutions** for local challenges  
-- **End-to-end systems** that deliver real impact  
+- **Data storytelling** that drives decisions
+- **AI-augmented solutions** for local challenges
+- **End-to-end systems** that deliver real impact
 
-Currently exploring **ML engineering**, **production AI systems**, and **data-driven products** that scale.
+Currently exploring **AI-augmented data analysis** and **data-driven tools** that scale.
 
 ---
 
 ## 🌍 Open to Opportunities
 
-I'm open to **internships**, **freelance roles**, and **remote opportunities** in:
+I'm open to **entry-level**, **freelance**, and **remote** opportunities in:
 
-- Data Analytics  
-- Data Science  
-- ML Engineering  
-- AI Product Development  
+- Data Analytics
+- Revenue & Billing Analytics
+- AI-Augmented Data Roles
 
 If you're building something meaningful—especially in Africa—let's talk.
 
@@ -92,11 +90,11 @@ If you're building something meaningful—especially in Africa—let's talk.
 
 ## 📬 Let's Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/chibueze-igiligi-15056a2a3)  
-- 🧠 [GitHub](https://github.com/Igiligi)  
-- 📧 johnboscoigiligi3@gmail.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/chibueze-igiligi-15056a2a3)
+- 🧠 [GitHub](https://github.com/Igiligi)
+- 📧 [chibuezeigiligi.ng@gmail.com](mailto:chibuezeigiligi.ng@gmail.com)
 
 ---
 
-*“Your current reality is not your final destination.”*  
+*"Your current reality is not your final destination."*
 — Chibueze Igiligi
