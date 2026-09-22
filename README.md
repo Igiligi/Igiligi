@@ -58,7 +58,6 @@ Cleaned and analyzed a 180,519-row supply chain dataset using Python (Pandas, Nu
 - **B.Sc. Civil Engineering** – First Class Honours
 - **3MTT Nigeria** – Data Analytics Fellow
 - **TechCrush AI/ML Scholarship** – Current Scholar
-- **NJFP Fellow** – Nigerian Jubilee Fellows Programme
 - **Best Graduating Student** – Academic excellence award
 
 ---
